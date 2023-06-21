@@ -1,0 +1,12 @@
+.title {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#col {
+    background-color: lightgrey;
+}
+
+.lists {
+    line-height: 1.5;
+}
