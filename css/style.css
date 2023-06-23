@@ -1,12 +1,39 @@
 .title {
-    color: red;
-    font-family: 'Times New Roman', Times, serif;
+    color: rgb(187, 54, 54);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:  auto;
+    padding: 10px;
+    
 }
 
-#col {
-    background-color: lightgrey;
+body {
+    background-color: lightblue;
+   
+}
+img{
+    width: 400px;
+    height: auto;
+    padding-top: 20px;
 }
 
 .lists {
-    line-height: 1.5;
+    line-height: 2;
+    text-align: left;
+    padding-left: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
+
+p {
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.recipe-card {
+    width: 600px;
+    border: 2px solid darkred;
+    background-color: lightgrey;
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;   
+}
+
