@@ -1,5 +1,5 @@
 .title {
-    color: rgb(187, 54, 54);
+    color: rgb(206, 62, 62);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin:  auto;
     padding: 10px;
@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: lightblue;
+    background-color: #c9ecf775;
    
 }
 img{
